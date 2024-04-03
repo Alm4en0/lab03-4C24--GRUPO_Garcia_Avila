@@ -3,7 +3,7 @@ public class EjemploBranch {
         System.out.println("¡Este es el archivo de ejemplo!");
         
         // Agregamos una nueva función en el branch
-        saludar("Rebeca");
+        saludar("Rebequiña");
     }
     
     public static void saludar(String nombre) {

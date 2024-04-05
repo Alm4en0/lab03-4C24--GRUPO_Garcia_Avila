@@ -1,6 +1,6 @@
-public class EjemploBranch {
+public class EjemploBranch{
     public static void main(String[] args) {
-        System.out.println("¡Este es el archivo de ejemplo!");
+        System.out.println("Este es el archivo de ejemplo");
         
         // Agregamos una nueva función en el branch
         saludar("Rebeca");

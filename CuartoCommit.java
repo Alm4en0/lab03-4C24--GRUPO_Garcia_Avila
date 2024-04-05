@@ -3,10 +3,10 @@ public class EjemploBranch {
         System.out.println("¡Este es el archivo de ejemplo!");
         
         // Agregamos una nueva función en el branch
-        saludar("Rebequiña");
+        saludar("A todos");
     }
     
     public static void saludar(String nombre) {
-        System.out.println("Hola, " + nombre + "Acabo de crear el cuarto archivo de ejemplo ");
+        System.out.println("Hola, " + nombre + "Soy el responsable y estoy haciendo cambios ");
     }
 }
